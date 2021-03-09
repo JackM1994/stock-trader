@@ -19,5 +19,7 @@
 </script>
 
 <style>
-
+	body{
+		padding: 30px;
+	}
 </style>
